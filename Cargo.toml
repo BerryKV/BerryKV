@@ -1,0 +1,12 @@
+[package]
+name = "berry_kv"
+version = "0.0.0"
+authors = ["Shylock Hg <tcath2s@gmail.com>"]
+edition = "2018"
+keywords = ['KV', 'Storage']
+license = 'MIT'
+description = 'A embeddable K/V storage engine inspired by RocksDB.'
+homepage = 'https://github.com/BerryKV/BerryKV'
+repository = 'https://github.com/BerryKV/BerryKV'
+
+[dependencies]
